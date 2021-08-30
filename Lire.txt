@@ -1,0 +1,24 @@
+Salut, 
+Petite présentation d'un loadingScreen FiveM en HTML Responsive ! /lua inspiré d'un autre j'ai perdu son nom :/ merci de me mention si vous le retrouvez pour que je le crédite 
+adapté pour five M avec ajout de la musique et d'une petite "Box" pour directement rediriger les joueurs sur un lien
+
+---Modifier la musique 
+Pour modifier la musique rendez-vous dans music et ensuite renommer votre musique en "music.mp3"
+	ps : la musique ce lance bien sur auto sur FiveM
+
+---Modifier la Nav
+liens: https://fontawesome.com/
+
+Copier : 
+		 <li>
+                    <a href="Page à rediriger" target="_blank">
+                       <i class="FountAwesome"></i></i> NomDeLaBox
+                    </a>
+                </li>
+
+
+--- Le start 
+ensure LoadingScreen
+
+
+			By Kamion#1323 bonne journée
